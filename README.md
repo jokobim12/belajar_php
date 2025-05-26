@@ -1,9 +1,9 @@
-# Belajar Laravel  
-Tutorial Laravel untuk Pemula
+# Belajar PHP
+Tutorial PHP untuk Pemula
 
 ---
 
-## 1. Instalasi Laravel
+## 1. Instalasi 
 
 1. **Download Visual Studio Code**  
    [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
@@ -18,7 +18,7 @@ Tutorial Laravel untuk Pemula
 
 4. **Buka Command Line Interface (CLI)**  
    Pilih direktori htdocs.
-   <p>biasanya ada di c:\xampp\htdocs</p>
+   biasanya ada di c:\xampp\htdocs
    ```bash
    cd \xampp\htdocs
 
@@ -33,6 +33,6 @@ Tutorial Laravel untuk Pemula
 7. **Buka Visual Studio Code di direktori tersebut** 
    ```bash
    code .
-   
+
 8. **Mulai membuat program**
 
